@@ -1,0 +1,6 @@
+train: train/
+test: test/
+val: val/
+nc: 7
+names: ["altimeter", "airspeed_indicator", "vertical_speed_indicator", "attitude_indicator", "heading_indicator", "turn_coordinator", "magnetic_compass"]
+
